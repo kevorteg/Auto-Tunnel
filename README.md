@@ -20,7 +20,7 @@ AutoTunnel es una herramienta que permite crear automáticamente túneles con Cl
 - [Cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/) instalado en tu sistema
 
 ### Instalación de Cloudflared
-Para más sistemas operativos, consulta la [documentación oficial de Cloudflare](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/).
+La instalación de Cloudflared ahora está automatizada. Para más sistemas operativos, consulta la [documentación oficial de Cloudflare](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/).
 
 #### Windows
 - Usando Winget (si lo tienes instalado):
