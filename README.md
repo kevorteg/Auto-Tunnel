@@ -31,7 +31,7 @@ AutoTunnel es una herramienta que permite crear automáticamente túneles con Cl
 Para iniciar el servidor Vite y crear automáticamente un túnel con Cloudflare:
 
 ```
-npm run dev
+npm run auto-tunnel
 ```
 
 Esto realizará las siguientes acciones:
