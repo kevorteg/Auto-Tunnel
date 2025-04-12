@@ -1,0 +1,21 @@
+{
+    "name": "auto-tunnel",
+    "version": "1.0.0",
+    "description": "Un proyecto para crear túneles automáticos con Cloudflare y Vite",
+    "main": "src/scripts/tunnel.js",
+    "scripts": {
+      "dev": "node src/scripts/tunnel.js", 
+      "start": "vite"
+    },
+    "dependencies": {
+      "chalk": "^5.0.0",
+      "clipboardy": "^2.3.0",
+      "vite": "^4.0.0",
+      "@vitejs/plugin-react": "^3.0.0"
+    },
+    "devDependencies": {},
+    "type": "module",
+    "author": "",
+    "license": "ISC"
+  }
+  
