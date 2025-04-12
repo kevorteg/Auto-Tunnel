@@ -1,5 +1,11 @@
 # AutoTunnel
 
+![Node version](https://img.shields.io/badge/Node-14%2B-brightgreen?style=flat-square&logo=node.js)
+![Vite](https://img.shields.io/badge/Vite-Ready-purple?style=flat-square&logo=vite)
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare-Tunnel-orange?style=flat-square&logo=cloudflare)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+
+
 ## Descripción
 AutoTunnel es una herramienta que permite crear automáticamente túneles con Cloudflare para exponer aplicaciones locales desarrolladas con Vite a Internet. Facilita el proceso de desarrollo y pruebas al generar una URL pública temporal para compartir tu aplicación sin necesidad de desplegarla.
 
@@ -79,3 +85,4 @@ Si necesitas cambiar el puerto predeterminado (5173), puedes modificarlo en:
 
 ## Licencia
 MIT © Kevin Ortega
+
