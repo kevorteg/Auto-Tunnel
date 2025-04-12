@@ -22,18 +22,6 @@ AutoTunnel es una herramienta que permite crear automáticamente túneles con Cl
 ### Instalación de Cloudflared
 La instalación de Cloudflared ahora está automatizada. Para más sistemas operativos, consulta la [documentación oficial de Cloudflare](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/).
 
-#### Windows
-- Usando Winget (si lo tienes instalado):
-  ```
-  winget install --id Cloudflare.cloudflared
-  ```
-
-#### macOS
-- Usando Homebrew:
-  ```
-  brew install cloudflared
-  ```
-
 ## Instalación
 
 1. Clona este repositorio:
