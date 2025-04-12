@@ -4,7 +4,7 @@
     "description": "Un proyecto para crear túneles automáticos con Cloudflare y Vite",
     "main": "src/scripts/tunnel.js",
     "scripts": {
-        "auto-tunnel": "node src/scripts/tunnel.js",
+        "auto-tunnel": "node src/scripts/checkCloudflared.js && node src/scripts/tunnel.js",
         "start": "vite"
     },
     "dependencies": {

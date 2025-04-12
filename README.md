@@ -17,7 +17,22 @@ AutoTunnel es una herramienta que permite crear automáticamente túneles con Cl
 
 ## Requisitos previos
 - Node.js (versión recomendada: 14.x o superior)
-- [Cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation) instalado en tu sistema
+- [Cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/) instalado en tu sistema
+
+### Instalación de Cloudflared
+Para más sistemas operativos, consulta la [documentación oficial de Cloudflare](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/).
+
+#### Windows
+- Usando Winget (si lo tienes instalado):
+  ```
+  winget install --id Cloudflare.cloudflared
+  ```
+
+#### macOS
+- Usando Homebrew:
+  ```
+  brew install cloudflared
+  ```
 
 ## Instalación
 
