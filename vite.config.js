@@ -6,6 +6,9 @@ export default defineConfig({
   server: {
     host: true, // Escucha en la red
     port: 5173, // Puerto
-    allowedHosts: 'all' // Permitir hosts
+    allowedHosts: [
+      'assignments-arctic-screensaver-accurate.trycloudflare.com', // Host específico
+      'all', // Permitir todos los demás hosts
+    ]
   }
 });
