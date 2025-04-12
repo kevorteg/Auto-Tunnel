@@ -52,19 +52,6 @@ Alternativamente, si solo quieres iniciar el servidor Vite sin crear un túnel:
 npm start
 ```
 
-## Estructura del proyecto
-
-```
-├── src/
-│   ├── index.html        # Página HTML básica
-│   └── scripts/
-│       └── tunnel.js     # Script principal que inicia Vite y el túnel
-├── tunnelMessages.js     # Mensajes para la consola
-├── vite.config.js        # Configuración de Vite
-├── package.json          # Dependencias y scripts
-└── README.md             # Este archivo
-```
-
 ## Dependencias principales
 
 - [Vite](https://vitejs.dev/): Entorno de desarrollo rápido
